@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+html::-webkit-scrollbar {
+    width: 0px;
+}
+
+body {
+    background-color: #faf0e6;
+}
+
+
+@font-face {
+    font-family: 'SF Mono';
+    src: url('/assets/fonts/SFMono-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF Mono';
+    src: url('/assets/fonts/SFMono-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.font-sfmono {
+    font-family: 'SF Mono', monospace;
+}
+.font-sfmonobold {
+    font-family: 'SF Mono', bold;
+}

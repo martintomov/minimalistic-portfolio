@@ -1,0 +1,73 @@
+{
+  "particles": {
+    "number": {
+      "value": 22, 
+      "density": {
+        "enable": true,
+        "value_area": 1200
+      }
+    },
+    "color": {
+      "value": "#aac2c8"
+    },
+    "shape": {
+      "type": "triangle",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      }
+    },
+    "opacity": {
+      "value": 0.6,
+      "random": false,
+      "anim": {
+        "enable": false
+      }
+    },
+    "size": {
+      "value": 7,
+      "random": true,
+      "anim": {
+        "enable": false
+      }
+    },
+    "line_linked": {
+      "enable": false
+    },
+    "move": {
+      "enable": true,
+      "speed": 3, 
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "bounce": false,
+      "attract": {
+        "enable": true,
+        "rotateX": 3000,
+        "rotateY": 3000
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "repulse"
+      },
+      "onclick": {
+        "enable": true,
+        "mode": "repulse"
+      },
+      "resize": true
+    },
+    "modes": {
+      "repulse": {
+        "distance": 100,
+        "duration": 0.4
+      }
+    }
+  },
+  "retina_detect": true
+}
