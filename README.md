@@ -1,13 +1,15 @@
 # martintmv portfolio
 
-Welcome to **martintmv portfolio**, a minimalistic and modern web portfolio built with Next.js 14. This project showcases a sleek design, integrating interactive elements using `react-particles` and `tsparticles`, and styled with the power of Tailwind CSS.
+Welcome to [**martintmv portfolio**](https://martintomov.com) ━ A minimalistic and modern web app portfolio built with Next.js 14. This project showcases a sleek design, integrating interactive elements using `react-particles` and `tsparticles`, and styled with the power of Tailwind CSS.
+
+## [Template live demo](https://minimalistic-portfolio-two.vercel.app)
 
 <img width="1354" alt="Screenshot 2024-02-05 at 02 28 14" src="https://github.com/martintmv-git/minimalistic-portfolio/assets/101264514/28290f62-ac11-45ca-9e76-6a07b677aacc">
 
 
 ## Use it as a template
 
-To kickstart your own project with **martintmv portfolio** as a foundation, simply utilize the GitHub feature **Use this template**. This approach allows you to create a new repository in your account with the same directory structure and files as martintmv portfolio, but without carrying over the git commit history. 
+To kickstart your own project with **martintmv portfolio** as a foundation, simply utilize the GitHub feature  ━  **Use this template**. This approach allows you to create a new repository in your account with the same directory structure and files as **martintmv portfolio**, but without carrying over the git commit history. 
 
 ## Features
 
