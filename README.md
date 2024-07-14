@@ -2,12 +2,11 @@
 
 Welcome to [**martintmv portfolio**](https://martintomov.com) ━ A minimalistic and modern web app portfolio built with Next.js 14. This project showcases a sleek design, integrating interactive elements using `react-particles` and `tsparticles`, and styled with the power of Tailwind CSS.
 
-## [Template live demo](https://minimalistic-portfolio-two.vercel.app)
+## [live demo deployed on Vercel](https://minimalistic-portfolio-two.vercel.app)
 
-<img width="1354" alt="Screenshot 2024-02-05 at 02 28 14" src="https://github.com/martintmv-git/minimalistic-portfolio/assets/101264514/28290f62-ac11-45ca-9e76-6a07b677aacc">
+<img src="public/cover.png" width=1084>
 
-
-## Use it as a template
+## Use it as a Template
 
 To kickstart your own project with **martintmv portfolio** as a foundation, simply utilize the GitHub feature  ━  **Use this template**. This approach allows you to create a new repository in your account with the same directory structure and files as **martintmv portfolio**, but without carrying over the git commit history. 
 
@@ -24,11 +23,21 @@ To kickstart your own project with **martintmv portfolio** as a foundation, simp
 
 To get the **martintmv portfolio** up and running on your local machine, follow these steps:
 
-1. **Clone the Repository**;
-2. **Install Dependencies**;
-> Install all the required dependencies using `npm i`
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/martintmv-git/minimalistic-portfolio.git
+   ```
 
-3. **Start the Development Server**;
-> `npm run dev`
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-4. **The application will be available at** `http://localhost:3000`
+3. **Start the Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Access the Application**: The application will be available at `http://localhost:3000`.
+
+Enjoy building your portfolio!
