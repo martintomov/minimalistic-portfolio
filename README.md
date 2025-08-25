@@ -8,7 +8,7 @@ A minimalistic and modern web app portfolio built with Next.js 14. This project 
 
 ## Use it as a Template
 
-To kickstart your own project, simply utilize the GitHub feature  ━  **Use this template**. This approach allows you to create a new repository in your account with the same directory structure and files as **martintmv portfolio**, but without carrying over the git commit history. 
+To kickstart your own project, simply utilize the GitHub feature  ━  **Use this template**. This approach allows you to create a new repository in your account with the same directory structure, but without carrying over the git commit history. 
 
 ## Features
 
@@ -21,11 +21,11 @@ To kickstart your own project, simply utilize the GitHub feature  ━  **Use thi
 
 ## Running Locally
 
-To get the **martintmv portfolio** up and running on your local machine, follow these steps:
+To get the portfolio up and running on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/martintmv-git/minimalistic-portfolio.git
+   git clone https://github.com/martintomov/minimalistic-portfolio.git
    ```
 
 2. **Install Dependencies**:
